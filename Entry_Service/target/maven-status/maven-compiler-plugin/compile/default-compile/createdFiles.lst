@@ -1,0 +1,10 @@
+com\apollon\entry_service\service\SendingEntry.class
+com\apollon\entry_service\service\SavingEntry.class
+com\apollon\entry_service\kafka\KafKaConsumerService.class
+com\apollon\entry_service\repository\EntryRepository.class
+com\apollon\entry_service\model\Entry.class
+com\apollon\entry_service\EntryServiceApplication.class
+com\apollon\entry_service\kafka\AppConstants.class
+com\apollon\entry_service\controller\MainController.class
+com\apollon\entry_service\kafka\KafKaProducerService.class
+com\apollon\entry_service\model\Entry$EntryBuilder.class
